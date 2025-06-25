@@ -27,3 +27,5 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 1.[A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story)
 
 2.[The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
+
+3.[Sympathy for the Debil](https://bjmcgill.github.io/Sympathy-for-the-Devil)
