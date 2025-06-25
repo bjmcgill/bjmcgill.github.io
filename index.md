@@ -12,14 +12,16 @@ Outside of work and study, I’m passionate about fitness and maintain a daily w
 
 In the long term, I aim to either develop a fork of the open-source Accounting System project on GitHub to better support the needs of small charities, or continue expanding my creative work in interactive storytelling—potentially combining Unity with Ink to build narrative-driven games.
 
-## My Programming Projects
+## My Programming Projects
 
 1.[Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
 
-2.[Quest of the Mysteries](https://github.com/Quest-of-the-Mysteries)
+2.[Quest of the Mysteries in Python Unfinished](https://github.com/Quest-of-the-Mysteries)
 
 3.[Coins'n'Monsters](https://github.com/bjmcgill/coins-n-monsters)
 
 4.[Qt Calculator](https://github.com/bjmcgill/calculator)
+
+5.[Quest of the Mysteries in Inform 7 Completed](https://ifdb.org/viewgame?id=uczj0af83xin3bwd)
 
 ## Creative Writing
