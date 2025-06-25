@@ -1,5 +1,3 @@
-# Brian John McGill
-
 Hello, and welcome to my GitHub pages where you can learn about my latest projects, and browse examples of my creative writing.
 
 I currently serve as Treasurer and Webmaster for the Bee Sanctuary Movement, a Manchester-based charity focused on redeveloping green spaces to support bees and other pollinators. Our work also includes public education initiatives on bee conservation.
