@@ -3,8 +3,6 @@ layout: default
 title: A Fairy Story
 ---
 
-# A Fairy Story
-
 Old man Cromby surveyed the damage done to his turnip patch with distaste. All around him lay the remains of half chewed turnips, and piles of earth dug up by some mischievious animal. He realised with some regret that he would have to employ the services of the Leech, to sort this matter out.
 
 He walked out into the woods at the end of the village, and made his way to the Leech’s house, where he found her in front of the cottage chopping up some logs to throw into her fire.
