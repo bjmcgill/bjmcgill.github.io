@@ -29,3 +29,11 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 2.[The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
 
 3.[Sympathy for the Debil](https://bjmcgill.github.io/Sympathy-for-the-Devil)
+
+## Novel
+
+1.[The Elder Agenda](https://www.amazon.co.uk/Elder-Agenda-Brian-John-McGill/dp/B0CST18SRR)
+
+## Website
+
+1.[The Bee Sanctuary Movement](https://beesanctuarymovement.org)
