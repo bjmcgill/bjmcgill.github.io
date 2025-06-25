@@ -11,3 +11,15 @@ As a creative developer, I have written and published a text adventure game, Que
 Outside of work and study, I’m passionate about fitness and maintain a daily workout routine at my local gym. I’m also an avid listener of classical music, with subscriptions to Medici.tv, Amazon Music, and regular listening on BBC Sounds.
 
 In the long term, I aim to either develop a fork of the open-source Accounting System project on GitHub to better support the needs of small charities, or continue expanding my creative work in interactive storytelling—potentially combining Unity with Ink to build narrative-driven games.
+
+## My Programming Projects
+
+1.[Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
+
+2.[Quest of the Mysteries](https://github.com/Quest-of-the-Mysteries)
+
+3.[Coins'n'Monsters](https://github.com/bjmcgill/coins-n-monsters)
+
+4.[Qt Calculator](https://github.com/bjmcgill/calculator)
+
+## Creative Writing
