@@ -25,3 +25,5 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 5.[Quest of the Mysteries in Inform 7 Completed](https://ifdb.org/viewgame?id=uczj0af83xin3bwd)
 
 ## Creative Writing
+
+1.[A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story.md)
