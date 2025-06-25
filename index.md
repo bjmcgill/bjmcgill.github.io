@@ -14,7 +14,7 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 1.[Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
 
-2.[Quest of the Mysteries in Python Unfinished](https://github.com/Quest-of-the-Mysteries)
+2.[Quest of the Mysteries in Python Unfinished](https://github.com/bjmcgill/Quest-of-the-Mysteries)
 
 3.[Coins'n'Monsters](https://github.com/bjmcgill/coins-n-monsters)
 
