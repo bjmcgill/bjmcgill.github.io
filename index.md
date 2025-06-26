@@ -40,4 +40,4 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 ## Videos
 
-- [BJ McGill on YouTube](https://www.youtube.com/@brianmcgill7125)
+- [BJ McGill on YouTube](https://www.youtube.com/@brianmcgill7125/Videos)
