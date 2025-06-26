@@ -12,28 +12,32 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 ## My Programming Projects
 
-1.[Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
+- [Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
 
-2.[Quest of the Mysteries in Python Unfinished](https://github.com/bjmcgill/Quest-of-the-Mysteries)
+- [Quest of the Mysteries in Python Unfinished](https://github.com/bjmcgill/Quest-of-the-Mysteries)
 
-3.[Coins'n'Monsters](https://github.com/bjmcgill/coins-n-monsters)
+- [Coins'n'Monsters](https://github.com/bjmcgill/coins-n-monsters)
 
-4.[Qt Calculator](https://github.com/bjmcgill/calculator)
+- [Qt Calculator](https://github.com/bjmcgill/calculator)
 
-5.[Quest of the Mysteries in Inform 7 Completed](https://ifdb.org/viewgame?id=uczj0af83xin3bwd)
+- [Quest of the Mysteries in Inform 7 Completed](https://ifdb.org/viewgame?id=uczj0af83xin3bwd)
 
 ## Creative Writing
 
-1.[A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story)
+- [A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story)
 
-2.[The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
+- [The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
 
-3.[Sympathy for the Devil](https://bjmcgill.github.io/Sympathy-for-the-Devil)
+- [Sympathy for the Devil](https://bjmcgill.github.io/Sympathy-for-the-Devil)
 
 ## Novel
 
-1.[The Elder Agenda](https://www.amazon.co.uk/Elder-Agenda-Brian-John-McGill/dp/B0CST18SRR)
+- [The Elder Agenda](https://www.amazon.co.uk/Elder-Agenda-Brian-John-McGill/dp/B0CST18SRR)
 
 ## Website
 
-1.[The Bee Sanctuary Movement](https://beesanctuarymovement.org)
+- [The Bee Sanctuary Movement](https://beesanctuarymovement.org)
+
+## Videos
+
+- [BJ McGill on YouTube](https://www.youtube.com/@brianmcgill7125)
