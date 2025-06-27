@@ -30,7 +30,7 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 - [Sympathy for the Devil](https://bjmcgill.github.io/Sympathy-for-the-Devil)
 
-- [The Children of Babel](https://bhmcgill.github.io/Babel16Jul2011.pdf)
+- [The Children of Babel](https://bjmcgill.github.io/Babel16Jul2011.pdf)
 
 ## Novel
 
