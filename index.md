@@ -12,7 +12,7 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 ## My Programming Projects
 
-- [Accounting System for Small Charities](Accounting-System-for-Small-Charities)
+- [Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
 
 - [Quest of the Mysteries in Python Unfinished](https://github.com/bjmcgill/Quest-of-the-Mysteries)
 
@@ -24,7 +24,7 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 ## Creative Writing
 
-- [A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story)
+- [A Fairy Story](A-Fairy-Story)
 
 - [The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
 
