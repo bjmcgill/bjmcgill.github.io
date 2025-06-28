@@ -24,7 +24,7 @@ In the long term, I aim to either develop a fork of the open-source Accounting S
 
 ## Creative Writing
 
-- [A Fairy Story](https://bjmcgil.github.io/A-Fairy-Story)
+- [A Fairy Story](https://bjmcgill.github.io/A-Fairy-Story)
 
 - [The Garden of Gaia](https://bjmcgill.github.io/The-Garden-of-Gaia)
 
