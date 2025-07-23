@@ -1,6 +1,6 @@
 Hello, and welcome to my GitHub pages where you can learn about my latest projects, and browse examples of my creative writing.
 
-**Software Developer | Creative Technologist | Conservation Advocate**
+| **Software Developer** | **Creative Technologist** | **Conservation Advocate** |
 
 As Treasurer and Webmaster for the Bee Sanctuary Movement, I combine my passion for environmental conservation with technical expertise to support Manchester's leading bee conservation charity. I develop digital solutions for green space redevelopment initiatives while managing financial operations and public education programs.
 
