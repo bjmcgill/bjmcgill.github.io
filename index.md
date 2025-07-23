@@ -1,18 +1,26 @@
 Hello, and welcome to my GitHub pages where you can learn about my latest projects, and browse examples of my creative writing.
 
-I currently serve as Treasurer and Webmaster for the Bee Sanctuary Movement, a Manchester-based charity focused on redeveloping green spaces to support bees and other pollinators. Our work also includes public education initiatives on bee conservation.
+**Software Developer | Creative Technologist | Conservation Advocate**
 
-In terms of technical development, I recently completed the Introduction to Programming course offered by the University of Helsinki and am now enrolled in the follow-up Advanced Programming course. My current programming skills include Python, with experience in Tkinter and Qt for GUI development. I plan to expand my expertise into JavaScript, Full Stack Development, and AI tool creation using the ChatGPT API.
+As Treasurer and Webmaster for the Bee Sanctuary Movement, I combine my passion for environmental conservation with technical expertise to support Manchester's leading bee conservation charity. I develop digital solutions for green space redevelopment initiatives while managing financial operations and public education programs.
 
-As a creative developer, I have written and published a text adventure game, Quest of the Mysteries, using the Inform 7 language, which is now available on IFDB.org. Additionally, I authored and self-published a novel with an occult theme, The Elder Agenda, available on Amazon.
+**Technical Expertise**
+I build practical software solutions, including Tallis Ledger—a streamlined accounting system designed specifically for small charities. My programming foundation in Python encompasses GUI development with Tkinter and Qt, complemented by hands-on experience from the University of Helsinki's advanced programming course, where I developed an arcade game as my capstone project.
 
-Outside of work and study, I’m passionate about fitness and maintain a daily workout routine at my local gym. I’m also an avid listener of classical music, with subscriptions to Medici.tv, Amazon Music, and regular listening on BBC Sounds.
+Currently expanding into JavaScript, full-stack development, and AI integration using APIs to create innovative tools that solve real-world problems.
 
-In the long term, I aim to either develop a fork of the open-source Accounting System project on GitHub to better support the needs of small charities, or continue expanding my creative work in interactive storytelling—potentially combining Unity with Ink to build narrative-driven games.
+**Creative Development**
+I bridge technology and storytelling through interactive media. My published works include "Quest of the Mysteries," a text adventure game built in Inform 7 (available on IFDB.org), and "The Elder Agenda," an occult-themed novel available on Amazon. I'm particularly interested in combining Unity with Ink to create narrative-driven gaming experiences.
+
+**Beyond Code**
+When not programming, I maintain an active lifestyle with daily gym sessions and cultivate my appreciation for classical music through platforms like Medici.tv, Amazon Music, and BBC Sounds.
+
+**What's Next**
+I'm seeking software development opportunities where I can apply my technical skills, creative problem-solving approach, and commitment to meaningful projects that make a positive impact.
 
 ## My Programming Projects
 
-- [Accounting System for Small Charities](https://github.com/bjmcgill/Accounting-System-for-Small-Charities)
+- [Tallis Ledger: A Concise Ledger Based Accounting System for Small Charities](https://github.com/bjmcgill/Tallis-Ledger)
 
 - [Quest of the Mysteries in Python Unfinished](https://github.com/bjmcgill/Quest-of-the-Mysteries)
 
