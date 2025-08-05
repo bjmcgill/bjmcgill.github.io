@@ -48,6 +48,10 @@ I'm seeking software development opportunities where I can apply my technical sk
 
 - [The Bee Sanctuary Movement](https://beesanctuarymovement.org)
 
+## LinkedIn
+
+- [BJ McGill Profile}(https://www.linkedin.com/in/brian-mcgill-a49805349)
+
 ## Videos
 
 - [BJ McGill on YouTube](https://www.youtube.com/@brianmcgill7125/videos)
