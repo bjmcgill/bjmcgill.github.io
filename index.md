@@ -50,7 +50,7 @@ I'm seeking software development opportunities where I can apply my technical sk
 
 ## LinkedIn
 
-- [BJ McGill Profile}(https://www.linkedin.com/in/brian-mcgill-a49805349)
+- [BJ McGill Profile](https://www.linkedin.com/in/brian-mcgill-a49805349)
 
 ## Videos
 
