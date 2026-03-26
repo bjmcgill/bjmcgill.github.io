@@ -13,9 +13,9 @@ My current technical skills include Python and Tkinter, and I have applied these
 
 ### Projects
 
-Tallis Ledger — A Python/Tkinter accounting system designed for small charities
-Quest of the Mysteries — A text adventure written in Inform 7, published on IFDB
-Coins'n'Monsters - A simple arcade game developed using the Pygame framework
+- Tallis Ledger — A Python/Tkinter accounting system designed for small charities
+- Quest of the Mysteries — A text adventure written in Inform 7, published on IFDB
+- Coins'n'Monsters - A simple arcade game developed using the Pygame framework
 
 ### Writing
 In 2023 I completed The Elder Agenda, a novel with an occult theme, which I have self-published on Amazon.
