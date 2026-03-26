@@ -1,22 +1,27 @@
 Hello, and welcome to my GitHub pages where you can learn about my latest projects, and browse examples of my creative writing.
 
-| **Software Developer** | **Creative Technologist** | **Conservation Advocate** |
+## Overview
 
-As Treasurer and Webmaster for the Bee Sanctuary Movement, I combine my passion for environmental conservation with technical expertise to support Manchester's leading bee conservation charity. I develop digital solutions for green space redevelopment initiatives while managing financial operations and public education programs.
+### Treasurer & Webmaster | Bee Sanctuary Movement
+I currently serve as Treasurer and Webmaster for the Bee Sanctuary Movement, a Manchester-based charity dedicated to redeveloping green spaces for the benefit of bees and other pollinating insects, while promoting public awareness of bee conservation.
 
-**Technical Expertise**
-I build practical software solutions, including Tallis Ledger—a streamlined accounting system designed specifically for small charities. My programming foundation in Python encompasses GUI development with Tkinter and Qt, complemented by hands-on experience from the University of Helsinki's advanced programming course, where I developed an arcade game as my capstone project.
+### Web Development & Programming
+I am currently enrolled in the Full Stack Open programme at the University of Helsinki, a rigorous course in modern web application development using JavaScript. The curriculum covers React, Redux, Node.js, MongoDB, GraphQL, and TypeScript, with a focus on single-page applications and RESTful API design.
+This builds on earlier University of Helsinki courses I have completed: Introduction to Programming, Advanced Course in Programming, and Building AI.
 
-Currently expanding into JavaScript, full-stack development, and AI integration using APIs to create innovative tools that solve real-world problems.
+My current technical skills include Python and Tkinter, and I have applied these to develop Tallis Ledger — a desktop accounting application built for small charities. My goal is to extend this into a full-stack web application, to be hosted on the Bee Sanctuary Movement's server.
 
-**Creative Development**
-I bridge technology and storytelling through interactive media. My published works include "Quest of the Mysteries," a text adventure game built in Inform 7 (available on IFDB.org), and "The Elder Agenda," an occult-themed novel available on Amazon. I'm particularly interested in combining Unity with Ink to create narrative-driven gaming experiences.
+### Projects
 
-**Beyond Code**
-When not programming, I maintain an active lifestyle with daily gym sessions and cultivate my appreciation for classical music through platforms like Medici.tv, Amazon Music, and BBC Sounds.
+Tallis Ledger — A Python/Tkinter accounting system designed for small charities
+Quest of the Mysteries — A text adventure written in Inform 7, published on IFDB
+Coins'nMonsters - A simple arcade game developed using the Pygame framework
 
-**What's Next**
-I'm seeking software development opportunities where I can apply my technical skills, creative problem-solving approach, and commitment to meaningful projects that make a positive impact.
+### Writing
+In 2023 I completed The Elder Agenda, a novel with an occult theme, which I have self-published on Amazon.
+
+### Interests
+Outside of technology and writing, I maintain an active interest in classical music and keep a regular fitness routine.
 
 ## My Programming Projects
 
